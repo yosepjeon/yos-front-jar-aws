@@ -1,0 +1,1 @@
+# yos-front-jar-aws
